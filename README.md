@@ -1,6 +1,8 @@
 Data collected from the experimental paradigm in https://github.com/mattrussell2/chess-mw-MUSE. 
 
-This data has been preprocessed to remove noise artifacts as outlined in the paper> Please cite as follows:
+This data has been preprocessed to remove noise artifacts as outlined in the paper: https://arxiv.org/abs/2505.07592. 
+
+Please cite as follows:
 ```
 @misc{russell2025neuralsignatureschesspuzzle,
       title={Neural Signatures Within and Between Chess Puzzle Solving and Standard Cognitive Tasks for Brain-Computer Interfaces: A Low-Cost Electroencephalography Study}, 
